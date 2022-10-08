@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashantfb65
-- 👀 I’m interested in Data Science and Software development
+- 👀 I’m interested in Blockchain, Data Science and Software development
 - 📫 How to reach me ...prashantfb6565@gmail.com
 
 <!---
